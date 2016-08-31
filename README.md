@@ -1,7 +1,7 @@
 ![Pokémon Unity](http://i.imgur.com/SOhSR1q.png)
 # Pokemon-Unity :clap::clap::clap:
 
-## Initial Readme on first realease
+### Initial Readme on first realease
 
   PKU was in development for about a year before I could
 not continue working on the project. Rather than let it
@@ -35,11 +35,11 @@ development of PokÈmon Unity.
 
 
 
-## This Project uses Git LFS
+### This Project uses Git LFS
 Before cloning this project make sure to have [Git LFS](https://git-lfs.github.com./) installed. **After Git LFS is installed Github will do all the heavy lifting for the large files.** 
 
 
-## Special Thanks
+### Special Thanks
 **Special Thanks to IIColour Spectrum for developing this insanely awesome Unity Project.**
 
 
