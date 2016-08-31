@@ -1,37 +1,37 @@
 ![Pokémon Unity](http://i.imgur.com/jYTvnaV.png)
 # Pokemon-Unity :clap::clap::clap:
 
-### Initial Readme on first realease
+### Readme on first realease
 
-  PKU was in development for about a year before I could
-not continue working on the project. Rather than let it
-die, I released the source as is.
+>  PKU was in development for about a year before I could
+>  not continue working on the project. Rather than let it
+>  die, I released the source as is.
 
-  Naturally this leaves it in a fairly incomplete state,
-albeit functional.
+>  Naturally this leaves it in a fairly incomplete state,
+>  albeit functional.
 
-  There's a lot of legacy code left over from when I was
-learning to use Unity, so some scripts (namely the PC 
-and Bag interfaces) are functional though implemented
-rather poorly.
+>  There's a lot of legacy code left over from when I was
+>  learning to use Unity, so some scripts (namely the PC 
+>  and Bag interfaces) are functional though implemented
+>  rather poorly.
 
-  I'm hoping that the PokÈmon Game Development Community
-will be able to continue my work and eventually get this
-project into a fully functional state.
-
----------------------------------------------------------
-
-  If you need to contact me regarding the project for 
-any reason, you can reach me via my [Pokemon-Unity Subreddit](https://www.youtube.com/user/EclipseJewel), or
-the [Pokemon-Unity Subreddit](https://www.reddit.com/r/PokemonUnity/) although I can't guarantee
-when I'll see it or how much I can help.
-  I will try though.
+>  I'm hoping that the PokÈmon Game Development Community
+>  will be able to continue my work and eventually get this
+>  project into a fully functional state.
 
 ---------------------------------------------------------
 
-  Thank you to everyone who supported me during the 
-development of PokÈmon Unity. 
-  I hope this source is useful.
+>  If you need to contact me regarding the project for 
+>  any reason, you can reach me via my [Pokemon-Unity Subreddit](https://www.youtube.com/user/EclipseJewel), or
+>  the [Pokemon-Unity Subreddit](https://www.reddit.com/r/PokemonUnity/) although I can't guarantee
+>  when I'll see it or how much I can help.
+>  I will try though.
+
+---------------------------------------------------------
+
+> Thank you to everyone who supported me during the 
+> development of PokÈmon Unity. 
+> I hope this source is useful.
 
 
 
