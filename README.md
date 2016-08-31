@@ -1,4 +1,4 @@
-![Pokémon Unity](http://i.imgur.com/SOhSR1q.png)
+![Pokémon Unity](http://i.imgur.com/jYTvnaV.png)
 # Pokemon-Unity :clap::clap::clap:
 
 ### Initial Readme on first realease
