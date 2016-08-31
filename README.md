@@ -7,7 +7,7 @@ Pokemon Unity was developed by IIcolour Spectrum. He has recently stopped workin
 [Pokemon-Unity Subreddit](https://www.reddit.com/r/PokemonUnity/)
 
 ## This Project uses Git LFS
-Before cloning this project make sure to have Git LFS installed. After Git LFS is installed Github will do all the heavy lifting for the large files. :clap:
+Before cloning this project make sure to have [Git LFS](https://git-lfs.github.com./) installed. After Git LFS is installed Github will do all the heavy lifting for the large files. :clap:
 
 
 ## Special Thanks
