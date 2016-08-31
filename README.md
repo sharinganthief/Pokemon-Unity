@@ -1,4 +1,4 @@
-![alt tag](http://imgur.com/7E9TZGH)
+![Pokémon Unity](http://i.imgur.com/7E9TZGH.png)
 
 # Pokemon-Unity
 
@@ -13,6 +13,3 @@ Special Thanks to IIColour Spectrum for developing this insanely awesome Unity P
 
 
 
-## License
-________________________________________________________________
-Pokemon-Unity IS PROVIDED "AS IS"
