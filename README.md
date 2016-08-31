@@ -22,8 +22,8 @@ project into a fully functional state.
 ---------------------------------------------------------
 
   If you need to contact me regarding the project for 
-any reason, you can reach me via my YouTube channel, or
-the subreddit /r/PokemonUnity although I can't guarantee
+any reason, you can reach me via my [Pokemon-Unity Subreddit](https://www.youtube.com/user/EclipseJewel), or
+the [Pokemon-Unity Subreddit](https://www.reddit.com/r/PokemonUnity/) although I can't guarantee
 when I'll see it or how much I can help.
   I will try though.
 
@@ -34,10 +34,9 @@ development of PokÈmon Unity.
   I hope this source is useful.
 
 
-[Pokemon-Unity Subreddit](https://www.reddit.com/r/PokemonUnity/)
 
 ## This Project uses Git LFS
-Before cloning this project make sure to have [Git LFS](https://git-lfs.github.com./) installed. **After Git LFS is installed Github will do all the heavy lifting for the large files. 
+Before cloning this project make sure to have [Git LFS](https://git-lfs.github.com./) installed. **After Git LFS is installed Github will do all the heavy lifting for the large files.** 
 
 
 ## Special Thanks
