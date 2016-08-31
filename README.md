@@ -23,7 +23,7 @@
 
 >  If you need to contact me regarding the project for 
 >  any reason, you can reach me via my [Pokemon-Unity Subreddit](https://www.youtube.com/user/EclipseJewel), or
->  the [Pokemon-Unity Subreddit](https://www.reddit.com/r/PokemonUnity/) although I can't guarantee
+>  the [Youtube](https://www.youtube.com/user/EclipseJewel) although I can't guarantee
 >  when I'll see it or how much I can help.
 >  I will try though.
 
